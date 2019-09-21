@@ -20,26 +20,6 @@ _Note:_
 -   Please use ES6.
 -   Use SCSS for stylesheet.
 
-## Start building:
-
-Clone repo
-
-```
-git clone git@bitbucket.org:punterswebteam/vue-weather-app.git
-```
-
-Create a new branch
-
-```
-git checkout -b [your-name]-weather-app-phase-1
-```
-
-Install dependencies and run on local, then you are good to go 🚀
-
-```
-$ npm install
-$ npm run serve # dev server at http://localhost:8080
-```
 
 ## Roadmap:
 
