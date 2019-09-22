@@ -16,6 +16,7 @@
     line-height: 70px;
     color: white;
 }
+.weather-app-tabs-warp {
     color: #9b9b9b;
     overflow: hidden;
     background: beige;
@@ -37,6 +38,7 @@
 .weather-app-main__area {
     height: 100px;
     width: 100%;
+
     padding-top: 10px;
     display: flex;
     justify-content: space-between;
@@ -46,10 +48,6 @@
 .weather-app-main {
     padding: 10px;
 }
-
-
-
-
 .weather-app-main__area-priamry {
     padding-left: 40px;
     color: #9b9b9b;
